@@ -1,6 +1,10 @@
 {
   "packs": [
-    "Goku444.json"
+    "Goku444.json",
+    "CreepyJoe.json",
+    "KojimaKaminandesu.json",
+    "PrettySailorMoon.json",
+    "MrWolverine.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
